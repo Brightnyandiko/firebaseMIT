@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197030919417",
+    "project_id": "fir-mit-f2b92",
+    "storage_bucket": "fir-mit-f2b92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197030919417:android:ece4bf8fcff20e53433628",
+        "android_client_info": {
+          "package_name": "com.bright.firebasemit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvuJpyXxMRAyUGT_3vgIfz2A9N00OwEpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
